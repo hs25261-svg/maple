@@ -16,3 +16,7 @@ main {
    header h1 {
      color :#F2F7F8;
 }
+img {
+   width: 300px;
+   border-radius: 10px;
+}
